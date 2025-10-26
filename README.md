@@ -1,2 +1,20 @@
 # subcontractor-delay-ai
 AI-based early detection of subcontractor performance deterioration on DOT roadway projects. Links subcontractor shortages to liquidated damages and develops GC mitigation strategies to prevent cascade failures. Motivation: “Early detection could have prevented $395,006 in damages.”
+# Subcontractor-Delay-AI
+
+**Goal.** Investigate the impact of subcontractor availability on heavy construction delay and build an **AI-based early warning system** for subcontractor performance deterioration on FDOT roadway projects.
+
+## Research Focus
+- **Topic A:** *AI-Based Early Detection of Subcontractor Performance Deterioration: Preventing Cascade Failures in Infrastructure Projects*  
+  - **RQ:** Can AI detect early warning signs of subcontractor performance deterioration in **daily construction reports**, and what is the **cascade impact** when detection fails?  
+  - **Motivation:** “Early detection could have prevented **$395,006** in damages—here’s the AI that can do it.”
+
+## What’s in this repo
+- **/data/** raw docs (PDF/Word/JSON/CSV) — *keep private or de-identified*
+- **/notebooks/** exploratory analysis & model prototypes
+- **/src/** reusable Python modules (parsers, feature engineering, modeling)
+- **/experiments/** tracked runs and configs
+- **/models/** saved weights/artifacts (gitignored)
+- **/output/** generated tables/figures (gitignored)
+- **/docs/** writeups, figures, and paper text
+
