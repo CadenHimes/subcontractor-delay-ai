@@ -13,3 +13,5 @@
 - **/output/** generated tables/figures 
 - **/docs/** writeups, figures, and paper text
 
+**Data availability:** see [/docs/DAS.md](docs/DAS.md). If a DOI is issued (Zenodo), it will be listed there.
+
