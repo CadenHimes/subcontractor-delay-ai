@@ -1,5 +1,3 @@
-# subcontractor-delay-ai
-AI-based early detection of subcontractor performance deterioration on DOT roadway projects. Links subcontractor shortages to liquidated damages and develops GC mitigation strategies to prevent cascade failures. Motivation: “Early detection could have prevented $395,006 in damages.”
 # Subcontractor-Delay-AI
 
 **Goal.** Investigate the impact of subcontractor availability on heavy construction delay and build an **AI-based early warning system** for subcontractor performance deterioration on FDOT roadway projects.
