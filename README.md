@@ -10,11 +10,8 @@ AI-based early detection of subcontractor performance deterioration on DOT roadw
   - **Motivation:** “Early detection could have prevented **$395,006** in damages—here’s the AI that can do it.”
 
 ## What’s in this repo
-- **/data/** raw docs (PDF/Word/JSON/CSV) — *keep private or de-identified*
-- **/notebooks/** exploratory analysis & model prototypes
-- **/src/** reusable Python modules (parsers, feature engineering, modeling)
-- **/experiments/** tracked runs and configs
-- **/models/** saved weights/artifacts (gitignored)
-- **/output/** generated tables/figures (gitignored)
+- **/data/** raw docs (PDF/Word/JSON/CSV) — *keep private*
+- **/src/** reusable Python modules
+- **/output/** generated tables/figures 
 - **/docs/** writeups, figures, and paper text
 
